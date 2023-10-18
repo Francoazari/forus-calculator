@@ -1,0 +1,17 @@
+.menu {
+    width: 20%;
+    list-style: none;
+
+    li {
+        height: 30px;
+
+        a {
+            color: #fff;
+            text-decoration: none;
+
+            &:hover {
+                font-weight: bold;
+            }
+        }
+    }
+}
